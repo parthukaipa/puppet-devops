@@ -1,3 +1,4 @@
+# this is is atest file
 node "test-site" {
 
   file { ['/var/www']:
